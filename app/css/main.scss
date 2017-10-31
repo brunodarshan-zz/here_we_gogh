@@ -1,6 +1,2 @@
-// bower:scss
-// endbower
-
-body:before {
-  content: "I'm at 'app/css/main.scss";
-}
+@import "../node_modules/bootstrap/scss/grid";
+@import "../node_modules/bootstrap/scss/navbar";
