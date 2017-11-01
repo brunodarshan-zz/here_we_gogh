@@ -1,2 +1,10 @@
-@import "../node_modules/bootstrap/scss/grid";
-@import "../node_modules/bootstrap/scss/navbar";
+
+//   Import bootstrap scss resources what I need
+@import "../vendor/bootstrap/scss/bootstrap";
+
+#PageHeader {
+  .container {
+
+    height: 100vh;
+  }
+}

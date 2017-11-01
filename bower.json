@@ -1,0 +1,11 @@
+{
+  "name": "gogh",
+  "description": "",
+  "main": "",
+  "authors": [
+    "brunodarshan <brunodarshan@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/brunodarshan/here_we_gogh",
+  "private": true
+}
