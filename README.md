@@ -4,4 +4,4 @@ This layout HTML is a study based on a project WebSite belongs to Lucy Costa and
 
 [Lucy Costa on Behance](https://www.behance.net/luciecosta5cd2)
 
-![Here We Gogh](./app/layout.png)
+![Here We Gogh](app/layout.jpg)
